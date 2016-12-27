@@ -1,7 +1,7 @@
 #   Product Management & Practice
 
 ### Product Description
-A side project for our own creation - based on ammassed knowledge. Poised to be a Web/Mobile application with all of the bells and whistles.
+A side project for our own creation - based on ammassed knowledge. Poised to be a Web/Mobile application with all of the bells and whistles. If you are committed to this project, please add your name to the below table with your name and wanted role.
 
 ##  Our own side-project
 ### Team Members
