@@ -18,9 +18,15 @@ A side project for our own creation - based on ammassed knowledge. Poised to be 
 ### Main Objectives
 To gain experience working with a variety of languages including REACT Native, Objective-C/Swift 3.0, JavaScript, CSS, PHP, HTML, JSON, MySQL, and more.
 
+In addition to working with a variety of languages (there will be separate repos under an orgnaization when the project starts), this project will also consist of managing our backend to allow specific external connections (from our app to the database), a formalized informational website about the project, and some security involved.
+
 Proper Documentation is required. All documnetation must be recorded in Markdown. Documentation includes wireframes, Data Flow Diagrams/Information Flow Diagrams (DFD/IFD), Task Flow Diagrams (TFD), Entity Relationship Diagrams (ERD), and Porject Mangement documentation such as Communications Document, Risk Assesments, Roles/Role Descriptions, Requirements, Scope Management Plan, Plan Summary and a User-Manual for all users (since we will have an admin and a user side).
 
 Since there are several key elements to this project, we will have a formailzed version control system, in addition to framworks that support the version control system with multiple users. For mobile development, we will be using [CocoaPods](https://cocoapods.org/https://cocoapods.org/) for Objective-C. Android is not yet determined (Suggestions?).
+
+In lamens terms, this project involves a lot, but will help those who may not know as much as others. This project should be viewed as a learning opportunity by everyone. Also a great addition to your project portfolio :wink: 
+
+If you feel that there is someone who has not yet been added, but has a great work ethic, finishes projects on time, and would learn a great extent by participating, run them by the product manager for verification. I am open to any suggestions.
 
 ### Possible Options
 Since we want to create a cross-platform experience (web and mobile), we have several openings. Below are some I have thought of (You may add more). Voting will occur on January 3rd (via Slack).
