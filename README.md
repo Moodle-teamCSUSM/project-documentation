@@ -18,7 +18,7 @@ A side project for our own creation - based on ammassed knowledge. Poised to be 
 ### Main Objectives
 To gain experience working with a variety of languages including REACT Native, Objective-C/Swift 3.0, JavaScript, CSS, PHP, HTML, JSON, MySQL, and more.
 
-In addition to working with a variety of languages (there will be separate repos under an orgnaization when the project starts), this project will also consist of managing our backend to allow specific external connections (from our app to the database), a formalized informational website about the project, and some security involved.
+In addition to working with a variety of languages (there will be separate repos under an orgnaization when the project starts), this project will also consist of managing our backend to allow specific external connections (from our app to the database), a backend system managing webhooks and automated scripts, a formalized informational website about the project, and some security involved.
 
 Proper Documentation is required. All documnetation must be recorded in Markdown. Documentation includes wireframes, Data Flow Diagrams/Information Flow Diagrams (DFD/IFD), Task Flow Diagrams (TFD), Entity Relationship Diagrams (ERD), and Porject Mangement documentation such as Communications Document, Risk Assesments, Roles/Role Descriptions, Requirements, Scope Management Plan, Plan Summary and a User-Manual for all users (since we will have an admin and a user side).
 
