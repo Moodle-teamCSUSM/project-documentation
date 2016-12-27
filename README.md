@@ -39,3 +39,8 @@ Possbible APIs include REACT Native, Google Analytics, and others as needed.
 ##### Using our current school system (Moodle Based), we will transform the theme to match a mobile and user friendly experience.
 This project will use our existing school system, moodle, as a base and will change the CSS to make it user friendly and much simplier to use. In addition, this theme will be ported to mobile devices in Native Applications (for experience purposes) so students can use the system with ease in this digitalized world.
 Possible API's include Moodle's API and integration tools, others as needed.
+
+
+### Slack Info
+Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your github will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) )
+Click [here](https://sideproject-teamcsusm.slack.com/shared_invite/MTIxMjY0OTEyMDA1LTE0ODI4NjgxMjMtMzI1ZjhlYTk4OA) for the slack team invite. Only accept if you are interested!
