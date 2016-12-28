@@ -51,6 +51,16 @@ Possible API's include Moodle's API and integration tools, others as needed.
 This project will use our knowledge of social networking and create a tool for those with Daiabetes to interact. Users would be those to keep their number history (charts and related information), blood glucose levels, appointment calendars, customized sharing of particular information, and more. Users can create social groups, particiapte in an organization and learn more about diabetes if they are newly diagnosed.
 Possible APIs include RESTful API, MongoDB, Analytics, and others as needed.
 
+####  Option 5 - User/Administrative Appointment System
+##### Create an appointment system where admins can create appointments and users can check into the appointment
+This project will incroperate full scheduling of appointments capability. Using a web interface for the administravtive side, users can use mobile apps to check into their appointment, change appointment times, and more. Some inforamtion that may be used includes mapping data for location based events, meeting with, which would link to a persons profile page (if they have on - professionals normally would). A base for this project could be considered as a doctor's office/urgent care check-in system.
+Would use push notifications to alert users when changes have occured on the administrative side.
+
+####  Option 6 - Course Registration System
+##### Create a course registration system that has both a standard user UI and administrative UI
+People want to enroll and participant in many events. The goal of this project is to create a software that can manage them easily. A suser should be able to easily enroll in classes, view their schedules, transfer into different courses and more. The administratvie side should be customizable to match company graphics requirements, policies and other additional procedures. Should be fully customizable on the administrative side - so much so that administative users show what standard users can see, in addition to having administrative users without full system rights (super admins).
+Would use push notifications to alert of changes in the course, location, or other details the client needs to be aware of (like facility closures)
+
 ### Team Breakdown
 Each member will participate within 1 or 2 teams. You may nominate yourself for any team you wish - we are just trying to be balanced. Here are the breakdowns:
 
