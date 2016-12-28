@@ -46,6 +46,11 @@ Possbible APIs include REACT Native, Google Analytics, and others as needed.
 This project will use our existing school system, moodle, as a base and will change the CSS to make it user friendly and much simplier to use. In addition, this theme will be ported to mobile devices in Native Applications (for experience purposes) so students can use the system with ease in this digitalized world.
 Possible API's include Moodle's API and integration tools, others as needed.
 
+####  Option 4 - Diabetes Dashboard
+##### Create an online tool for those with both Type I and Type II Diabetes.
+This project will use our knowledge of social networking and create a tool for those with Daiabetes to interact. Users would be those to keep their number history (charts and related information), blood glucose levels, appointment calendars, customized sharing of particular information, and more. Users can create social groups, particiapte in an organization and learn more about diabetes if they are newly diagnosed.
+Possible APIs include RESTful API, MongoDB, Analytics, and others as needed.
+
 ### Team Breakdown
 Each member will participate within 1 or 2 teams. You may nominate yourself for any team you wish - we are just trying to be balanced. Here are the breakdowns:
 
@@ -58,6 +63,7 @@ In charge of all iOS development in xCode and other enviornments. This team will
 |  |  |
 |  |  |
 
+
 > #### Android Mobile Development Team
 In charge of all android development in Android Studio, or similar IDE. This team will pair with the iOS Development Team for design consistancy, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
 >
@@ -67,6 +73,7 @@ In charge of all android development in Android Studio, or similar IDE. This tea
 |  |  |
 |  |  |
 
+
 > #### Web Development Team
 In charge of creating an informative website, in addition to a functional website, that works concurrently with the Mobile Development Teams for design consistancy, database management and graphics implementation. Each member must have suitable hardware/software for testing and running all created applications. Major browsers to support (in full) - Chrome, Safari, Firefox.
 >
@@ -75,6 +82,7 @@ In charge of creating an informative website, in addition to a functional websit
 |  |  |
 |  |  |
 |  |  |
+
 
 ### Slack Info
 Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your github will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) )
