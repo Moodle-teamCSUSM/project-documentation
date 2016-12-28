@@ -46,6 +46,35 @@ Possbible APIs include REACT Native, Google Analytics, and others as needed.
 This project will use our existing school system, moodle, as a base and will change the CSS to make it user friendly and much simplier to use. In addition, this theme will be ported to mobile devices in Native Applications (for experience purposes) so students can use the system with ease in this digitalized world.
 Possible API's include Moodle's API and integration tools, others as needed.
 
+### Team Breakdown
+Each member will participate within 1 or 2 teams. You may nominate yourself for any team you wish - we are just trying to be balanced. Here are the breakdowns:
+
+> #### iOS Mobile Development Team
+In charge of all iOS development in xCode and other enviornments. This team will pair with the Android Development Team and Web Development team for design consistancy, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
+>
+|Member|Main Role|
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+> #### Android Mobile Development Team
+In charge of all android development in Android Studio, or similar IDE. This team will pair with the iOS Development Team for design consistancy, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
+>
+|Member|Main Role|
+|---|---|
+|  |  |
+|  |  |
+|  |  |
+
+> #### Web Development Team
+In charge of creating an informative website, in addition to a functional website, that works concurrently with the Mobile Development Teams for design consistancy, database management and graphics implementation. Each member must have suitable hardware/software for testing and running all created applications. Major browsers to support (in full) - Chrome, Safari, Firefox.
+>
+|Member|Main Role|
+|---|---|
+|  |  |
+|  |  |
+|  |  |
 
 ### Slack Info
 Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your github will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) )
