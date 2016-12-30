@@ -61,8 +61,8 @@ Would use push notifications to alert users when changes have occured on the adm
 People want to enroll and participant in many events. The goal of this project is to create a software that can manage them easily. A suser should be able to easily enroll in classes, view their schedules, transfer into different courses and more. The administratvie side should be customizable to match company graphics requirements, policies and other additional procedures. Should be fully customizable on the administrative side - so much so that administative users show what standard users can see, in addition to having administrative users without full system rights (super admins).
 Would use push notifications to alert of changes in the course, location, or other details the client needs to be aware of (like facility closures)
 
-###  Option 6 - Modular Website Builder
-#### Create a mobile application that allows users to create their own online resume
+####  Option 7 - Modular Website Builder
+##### Create a mobile application that allows users to create their own online resume
 People want their own website. A possible solution is to make a website that is fully customizable for our users. There will be a primary search function that allows users to search for others, as well as configurable sites per user. For example, if a user went to their page, they can edit everything from the way their site looks - to the ontent - by either creating their own html uploads, or by using our templates. On the mobile application, the user can have easy access to mange their data including analytics. We would have to incorperate our own analytics system for this to have enhanced functionality.
 
 ### Team Breakdown
