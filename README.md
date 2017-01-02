@@ -9,7 +9,7 @@ A side project for our own creation - based on ammassed knowledge. Poised to be 
 |Name|Role|
 |---|---|
 |Justin Goulet|Product Lead|
-| | |
+|Mikal Callahan|Web Development|
 | | |
 | | |
 | | |
@@ -24,7 +24,7 @@ Proper Documentation is required. All documnetation must be recorded in Markdown
 
 Since there are several key elements to this project, we will have a formailzed version control system, in addition to framworks that support the version control system with multiple users. For mobile development, we will be using [CocoaPods](https://cocoapods.org/https://cocoapods.org/) for Objective-C. Android is not yet determined (Suggestions?).
 
-In lamens terms, this project involves a lot, but will help those who may not know as much as others. This project should be viewed as a learning opportunity by everyone. Also a great addition to your project portfolio :wink: 
+In lamens terms, this project involves a lot, but will help those who may not know as much as others. This project should be viewed as a learning opportunity by everyone. Also a great addition to your project portfolio :wink:
 
 If you feel that there is someone who has not yet been added, but has a great work ethic, finishes projects on time, and would learn a great extent by participating, run them by the product manager for verification. I am open to any suggestions.
 
