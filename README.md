@@ -41,7 +41,7 @@ Since we want to create a cross-platform experience (web and mobile), we have se
 
 ##### A social network that combines several social feeds into one.
 
-The project will incorporate many social networks and allow a user to view feed (by their own sorting). A user can sign into their twitter account, facebook account, instagram account and more and receive a centralized feed from all of them. When a user wishes to post, They may set a default setting to post to particular, or all, of the social netwroks they are signed into. Possible APIs include each network's API for integration, Analytics integration (along with customized analytics for our own use), others as needed..
+The project will incorporate many social networks and allow a user to view feed (by their own sorting). A user can sign into their twitter account, facebook account, instagram account and more and receive a centralized feed from all of them. When a user wishes to post, They may set a default setting to post to particular, or all, of the social networks they are signed into. Possible APIs include each network's API for integration, Analytics integration (along with customized analytics for our own use), others as needed..
 
 #### Option 2 - Recreation of BeerHopper
 
@@ -59,25 +59,25 @@ This project will use our existing school system, moodle, as a base and will cha
 
 ##### Create an online tool for those with both Type I and Type II Diabetes.
 
-This project will use our knowledge of social networking and create a tool for those with Daiabetes to interact. Users would be those to keep their number history (charts and related information), blood glucose levels, appointment calendars, customized sharing of particular information, and more. Users can create social groups, particiapte in an organization and learn more about diabetes if they are newly diagnosed. Possible APIs include RESTful API, MongoDB, Analytics, and others as needed.
+This project will use our knowledge of social networking and create a tool for those with Diabetes to interact. Users would be those to keep their number history (charts and related information), blood glucose levels, appointment calendars, customized sharing of particular information, and more. Users can create social groups, participate in an organization and learn more about diabetes if they are newly diagnosed. Possible APIs include RESTful API, MongoDB, Analytics, and others as needed.
 
 #### Option 5 - User/Administrative Appointment System
 
 ##### Create an appointment system where admins can create appointments and users can check into the appointment
 
-This project will incroperate full scheduling of appointments capability. Using a web interface for the administravtive side, users can use mobile apps to check into their appointment, change appointment times, and more. Some inforamtion that may be used includes mapping data for location based events, meeting with, which would link to a persons profile page (if they have on - professionals normally would). A base for this project could be considered as a doctor's office/urgent care check-in system. Would use push notifications to alert users when changes have occured on the administrative side.
+This project will incorporate full scheduling of appointments capability. Using a web interface for the administrative side, users can use mobile apps to check into their appointment, change appointment times, and more. Some information that may be used includes mapping data for location based events, meeting with, which would link to a persons profile page (if they have on - professionals normally would). A base for this project could be considered as a doctor's office/urgent care check-in system. Would use push notifications to alert users when changes have occurred on the administrative side.
 
 #### Option 6 - Course Registration System
 
 ##### Create a course registration system that has both a standard user UI and administrative UI
 
-People want to enroll and participant in many events. The goal of this project is to create a software that can manage them easily. A suser should be able to easily enroll in classes, view their schedules, transfer into different courses and more. The administratvie side should be customizable to match company graphics requirements, policies and other additional procedures. Should be fully customizable on the administrative side - so much so that administative users show what standard users can see, in addition to having administrative users without full system rights (super admins). Would use push notifications to alert of changes in the course, location, or other details the client needs to be aware of (like facility closures)
+People want to enroll and participant in many events. The goal of this project is to create a software that can manage them easily. A user should be able to easily enroll in classes, view their schedules, transfer into different courses and more. The administrative side should be customizable to match company graphics requirements, policies and other additional procedures. Should be fully customizable on the administrative side - so much so that administrative users show what standard users can see, in addition to having administrative users without full system rights (super admins). Would use push notifications to alert of changes in the course, location, or other details the client needs to be aware of (like facility closures)
 
 #### Option 7 - Modular Website Builder
 
 ##### Create a mobile application that allows users to create their own online resume
 
-People want their own website. A possible solution is to make a website that is fully customizable for our users. There will be a primary search function that allows users to search for others, as well as configurable sites per user. For example, if a user went to their page, they can edit everything from the way their site looks - to the ontent - by either creating their own html uploads, or by using our templates. On the mobile application, the user can have easy access to mange their data including analytics. We would have to incorperate our own analytics system for this to have enhanced functionality.
+People want their own website. A possible solution is to make a website that is fully customizable for our users. There will be a primary search function that allows users to search for others, as well as configurable sites per user. For example, if a user went to their page, they can edit everything from the way their site looks - to the content - by either creating their own html uploads, or by using our templates. On the mobile application, the user can have easy access to mange their data including analytics. We would have to incorporate our own analytics system for this to have enhanced functionality.
 
 ### Team Breakdown
 
@@ -85,7 +85,7 @@ Each member will participate within 1 or 2 teams. You may nominate yourself for 
 
 > #### iOS Mobile Development Team
 
-> In charge of all iOS development in xCode and other enviornments. This team will pair with the Android Development Team and Web Development team for design consistancy, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
+> In charge of all iOS development in xCode and other environments. This team will pair with the Android Development Team and Web Development team for design consistency, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
 
 > Member | Main Role
 > ------ | ---------
@@ -95,7 +95,7 @@ Each member will participate within 1 or 2 teams. You may nominate yourself for 
 
 > #### Android Mobile Development Team
 
-> In charge of all android development in Android Studio, or similar IDE. This team will pair with the iOS Development Team for design consistancy, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
+> In charge of all android development in Android Studio, or similar IDE. This team will pair with the iOS Development Team for design consistency, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
 
 > Member | Main Role
 > ------ | ---------
@@ -105,7 +105,7 @@ Each member will participate within 1 or 2 teams. You may nominate yourself for 
 
 > #### Web Development Team
 
-> In charge of creating an informative website, in addition to a functional website, that works concurrently with the Mobile Development Teams for design consistancy, database management and graphics implementation. Each member must have suitable hardware/software for testing and running all created applications. Major browsers to support (in full) - Chrome, Safari, Firefox.
+> In charge of creating an informative website, in addition to a functional website, that works concurrently with the Mobile Development Teams for design consistency, database management and graphics implementation. Each member must have suitable hardware/software for testing and running all created applications. Major browsers to support (in full) - Chrome, Safari, Firefox.
 
 > Member | Main Role
 > ------ | ---------
@@ -115,4 +115,4 @@ Each member will participate within 1 or 2 teams. You may nominate yourself for 
 
 ### Slack Info
 
-Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your github will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) ) Click [here](https://sideproject-teamcsusm.slack.com/shared_invite/MTIxMjY0OTEyMDA1LTE0ODI4NjgxMjMtMzI1ZjhlYTk4OA) for the slack team invite. Only accept if you are interested!
+Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your GitHub will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) ) Click [here](https://sideproject-teamcsusm.slack.com/shared_invite/MTIxMjY0OTEyMDA1LTE0ODI4NjgxMjMtMzI1ZjhlYTk4OA) for the slack team invite. Only accept if you are interested!
