@@ -14,7 +14,7 @@ Name           | Role
 -------------- | ---------------
 Justin Goulet  | Product Lead
 Mikal Callahan | Web Development
-               |
+Austin Miller  | Web Development
                |
                |
                |
@@ -65,7 +65,7 @@ This project will use our knowledge of social networking and create a tool for t
 
 ##### Create an appointment system where admins can create appointments and users can check into the appointment
 
-This project will incroperate full scheduling of appointments capability. Using a web interface for the administravtive side, users can use mobile apps to check into their appointment, change appointment times, and more. Some inforamtion that may be used includes mapping data for location based events, meeting with, which would link to a persons profile page (if they have on - professionals normally would). A base for this project could be considered as a doctor's office/urgent care check-in system. Would use push notifications to alert users when changes have occured on the administrative side.
+This project will incroperate full scheduling of appointments capability. Using a web interface for the administravtive side, users can use mobile apps to check into their appointment, change appointment times, and more. Some information that may be used includes mapping data for location based events, meeting with, which would link to a persons profile page (if they have on - professionals normally would). A base for this project could be considered as a doctor's office/urgent care check-in system. Would use push notifications to alert users when changes have occured on the administrative side.
 
 #### Option 6 - Course Registration System
 
