@@ -115,4 +115,4 @@ Each member will participate within 1 or 2 teams. You may nominate yourself for 
 
 ### Slack Info
 
-Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your github will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) ) Email **[me](mailto:jstngoulet@me.com)** for the slack team invite. Only accept if you are interested!
+Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your github will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) ) To join, click **_[here](https://sideproject-teamcsusm.slack.com/shared_invite/MTIzOTE5MTMzNTM2LTE0ODM4MTczODYtZmNjNTkyOTE4Mg)_** for the slack team invite. Only accept if you are interested!
