@@ -10,14 +10,14 @@ A side project for our own creation - based on amassed knowledge. Poised to be a
 
 --------------------------------------------------------------------------------
 
-Name           | Role
--------------- | ---------------
-Justin Goulet  | Product Lead
-Mikal Callahan | Web Development
-Austin Miller  | Web Development
+Name              | Role
+----------------- | -------------------------
+Justin Goulet     | Product Lead
+Mikal Callahan    | Web Development
+Austin Miller     | Web Development
 Justin Van Bibber | Consultant _to the stars_
-               |
-               |
+                  |
+                  |
 
 ### Main Objectives
 
