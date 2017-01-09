@@ -10,14 +10,14 @@ A side project for our own creation - based on amassed knowledge. Poised to be a
 
 --------------------------------------------------------------------------------
 
-Name           | Role
--------------- | ---------------
-Justin Goulet  | Product Lead
-Mikal Callahan | Web Development
-               |
-               |
-               |
-               |
+Name              | Role
+----------------- | -------------------------
+Justin Goulet     | Product Lead
+Mikal Callahan    | Web Development
+Austin Miller     | Web Development
+Justin Van Bibber | Consultant _to the stars_
+                  |
+                  |
 
 ### Main Objectives
 
@@ -66,6 +66,8 @@ This project will use our knowledge of social networking and create a tool for t
 ##### Create an appointment system where admins can create appointments and users can check into the appointment
 
 This project will incorporate full scheduling of appointments capability. Using a web interface for the administrative side, users can use mobile apps to check into their appointment, change appointment times, and more. Some information that may be used includes mapping data for location based events, meeting with, which would link to a persons profile page (if they have on - professionals normally would). A base for this project could be considered as a doctor's office/urgent care check-in system. Would use push notifications to alert users when changes have occurred on the administrative side.
+
+This project will incroperate full scheduling of appointments capability. Using a web interface for the administravtive side, users can use mobile apps to check into their appointment, change appointment times, and more. Some information that may be used includes mapping data for location based events, meeting with, which would link to a persons profile page (if they have on - professionals normally would). A base for this project could be considered as a doctor's office/urgent care check-in system. Would use push notifications to alert users when changes have occured on the administrative side.
 
 #### Option 6 - Course Registration System
 
@@ -116,3 +118,5 @@ Each member will participate within 1 or 2 teams. You may nominate yourself for 
 ### Slack Info
 
 Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your GitHub will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) ) Click [here](https://sideproject-teamcsusm.slack.com/shared_invite/MTIxMjY0OTEyMDA1LTE0ODI4NjgxMjMtMzI1ZjhlYTk4OA) for the slack team invite. Only accept if you are interested!
+
+Note for Slack - You do not need to use your real name! We can make it fun and just use an alias! Your github will tell all (Just be consistent with your branch name and slack name! This will make it easy for the PM :) ) To join, click **_[here](https://sideproject-teamcsusm.slack.com/shared_invite/MTIzOTE5MTMzNTM2LTE0ODM4MTczODYtZmNjNTkyOTE4Mg)_** for the slack team invite. Only accept if you are interested!
