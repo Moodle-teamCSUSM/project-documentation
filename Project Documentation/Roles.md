@@ -55,6 +55,8 @@ As shown in the chart, the positions are as follows:
 
 > The purpose is that each user should have a primary area of focus to reduce workload. Note that these teams may work together at times, but each team is responsible for their assigned duties.
 
+> In charge of creating an informative website, in addition to a functional website, that works concurrently with the Mobile Development Teams for design consistency, database management and graphics implementation. Each member must have suitable hardware/software for testing and running all created applications. Major browsers to support (in full) - Chrome, Safari, Firefox.
+
 > ##### UI Team
 
 > The UI Team is in charge of implementing the User Interface as described in the wireframe documentation and the page interaction diagrams. The UI Team must use the data gathered by the Design Team to match **specifically** what was discussed. This may include:
@@ -89,6 +91,8 @@ As shown in the chart, the positions are as follows:
 
 > The purpose is that each user should have a primary area of focus to reduce workload. Note that these teams may work together at times, but each team is responsible for their assigned duties.
 
+> In charge of all iOS development in xCode and other environments. This team will pair with the Android Development Team and Web Development team for design consistency, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
+
 > ##### UI Team
 
 > The UI Team is in charge of implementing the User Interface as described in the wireframe documentation and the page interaction diagrams. The UI Team must use the data gathered by the Design Team to match **specifically** what was discussed. This may include:
@@ -121,6 +125,8 @@ As shown in the chart, the positions are as follows:
 > - Backend
 
 > The purpose is that each user should have a primary area of focus to reduce workload. Note that these teams may work together at times, but each team is responsible for their assigned duties.
+
+> In charge of all android development in Android Studio, or similar IDE. This team will pair with the iOS Development Team for design consistency, database management and graphics implementation. Note that since we will be using REACT-Native, the language is portable enough to also work directly with the iOS Development Team. Each member must have suitable hardware for testing and running all created applications.
 
 > ##### UI Team
 
