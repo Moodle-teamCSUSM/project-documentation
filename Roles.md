@@ -22,6 +22,16 @@ As shown in the chart, the positions are as follows:
 
 > The product lead is in charge of determining deadlines, creating documentation as it relates to the project goals, maintaining accurate records of the project and ensuring each participant is actively participating to ensure their credit is enacted.
 
+#### Backend Administrators
+
+> The Backend Administrators are in charge of setting up the repositories, allowing access on the remote sites for the admins of each team and in charge of any scripting/support that is required for key functionality. Some tasks include:
+
+> - FTP access
+> - Domain Management and Hosting
+> - User Privileges on backend systems
+> - Initializing Service to allow push notifications/email alerts for updates
+> - Other tasks as required
+
 #### Database Management
 
 > The Database Management team is in charge of ensuring an accurate database is created using standardized mechanisms. Since we will be creating our own Moodle® theme, we will have to maintain a sample database of data - including analytics showing our our theme is used.
