@@ -44,6 +44,10 @@ As shown in the chart, the positions are as follows:
 > - Normalization Procedures
 > - Sample Queries with Descriptions
 
+#### Project Oversight
+
+> This team is solely to provide project advice. Read-only access permitted. For additional permissions, or to change teams, please contact the [Project Lead](mailto:jstngoulet@me.com).
+
 #### Design Team
 
 > The Design team is in charge of creating how the product will look for both Administrative and Student Users (for full user chart with descriptions, see the Stakeholder list). This includes the following (but not limited to):
