@@ -16,7 +16,7 @@ Justin Goulet     | Product Lead
 Mikal Callahan    | Web Development
 Austin Miller     | Web Development
 Justin Van Bibber | Consultant _to the stars_
-                  |
+Chris Larsen      | Stuff with things
                   |
 
 ### Main Objectives
