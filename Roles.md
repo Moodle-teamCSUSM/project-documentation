@@ -2,7 +2,7 @@
 
 ## Duties and Descriptions
 
-Last modified: January 8, 2017
+Last modified: January 11, 2017
 
 --------------------------------------------------------------------------------
 
