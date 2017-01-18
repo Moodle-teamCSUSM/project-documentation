@@ -103,6 +103,10 @@ Lastly, each team should use [Asana](https://app.asana.com/0/dashboard/248713323
 
 It does not matter which IDE you use - as long as it works with your small groups. Be sure to push to your repo regularly so other team members stay updated on your status. You should push to your branch every time you either take a break from coding, or walk away from your desk after working on it. Update to master at least once a week (more if needed - it is recommended).
 
+##### Web Development Team
+
+Since your project relies on web-based hosting, you will have access to a remote folder on our system. You should be receiving user-level access writing access as soon as the system is setup.
+
 #### Final Notes
 
 Remember, we are not on a set schedule, but we have to have some guidelines if anything should get done. For best results, we should treat this as a semester project. Below is a breakdown of dates that should get us started.
