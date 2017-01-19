@@ -8,7 +8,7 @@ Last modified: January 11, 2017
 
 ### Document Objective
 
-Describes roles of each individual, including what they are responsible for and each group member name. See the [Communications]('../README.md') document for contact information for each participant.
+Describes roles of each individual, including what they are responsible for and each group member name. See the [Communications]('Communications.md') document for contact information for each participant.
 
 ### Team Breakdown Chart
 
@@ -81,7 +81,7 @@ As shown in the chart, the positions are as follows:
 > - Fonts
 > - Colors
 
-> To submit a change to the Design Team, a new issue must be opened in GitHub, as mentioned in the [Communications Document](Roles.md). This team works closely to the Backend team for sharing classes, ids, and other information needed to ensure a fluid workspace. Heavy focus on CSS and Javascript.
+> To submit a change to the Design Team, a new issue must be opened in GitHub, as mentioned in the [Communications Document](communications.md). This team works closely to the Backend team for sharing classes, ids, and other information needed to ensure a fluid workspace. Heavy focus on CSS and Javascript.
 
 > ##### Backend Team
 
@@ -117,7 +117,7 @@ As shown in the chart, the positions are as follows:
 > - Fonts
 > - Colors
 
-> To submit a change to the Design Team, a new issue must be opened in GitHub, as mentioned in the [Communications Document](Roles.md). This team works closely to the Backend team for sharing classes, ids, and other information needed to ensure a fluid workspace. Heavy focus on REACT-Native, Objective-C/Swift (team decides which one), and SQLite.
+> To submit a change to the Design Team, a new issue must be opened in GitHub, as mentioned in the [Communications Document](communications.md). This team works closely to the Backend team for sharing classes, ids, and other information needed to ensure a fluid workspace. Heavy focus on REACT-Native, Objective-C/Swift (team decides which one), and SQLite.
 
 > ##### Backend Team
 
@@ -152,7 +152,7 @@ As shown in the chart, the positions are as follows:
 > - Fonts
 > - Colors
 
-> To submit a change to the Design Team, a new issue must be opened in GitHub, as mentioned in the [Communications Document](Roles.md). This team works closely to the Backend team for sharing classes, ids, and other information needed to ensure a fluid workspace. Heavy focus on REACT-Native, Objective-C/Swift (team decides which one), and SQLite.
+> To submit a change to the Design Team, a new issue must be opened in GitHub, as mentioned in the [Communications Document](communications.md). This team works closely to the Backend team for sharing classes, ids, and other information needed to ensure a fluid workspace. Heavy focus on REACT-Native, Objective-C/Swift (team decides which one), and SQLite.
 
 > ##### Backend Team
 

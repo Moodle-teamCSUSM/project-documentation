@@ -10,7 +10,7 @@ January 16, 2016 | January 16, 2017
 
 ### Document Objective
 
-To describe what software systems we use, how we determine our deadlines, referencing the use of the [Communications Document](''), and managing how we handle disparities between teams.
+To describe what software systems we use, how we determine our deadlines, referencing the use of the [Communications Document](communications.md), and managing how we handle disparities between teams.
 
 ### Kickstart
 
@@ -97,7 +97,7 @@ Due to the differences that my appear in each project, each critical team (colla
 
 In addition, each team must also prepare a master change-log that keeps other teams within the project updated on your current status. This is a single documentation appended in the beginning such that the newest changes appear first. This should be general knowledge similar to what you see in a public application/Operating System change-log. This should be updated for every project change, published to the master "project-documentation" channel on Slack and branch on GitHub.
 
-Lastly, each team should use [Asana](https://app.asana.com/0/dashboard/248713323873832) (setup information will appear in the Communications document) to manage their task lists. Each team should break down each task within their critical team and both assign and schedule each task. This list will be used to determine what is remaining in the project (for all teams, including yours).
+Lastly, each team should use [Asana](https://app.asana.com/0/dashboard/248713323873832) (setup information will appear in the [Communications document](communications.md)) to manage their task lists. Each team should break down each task within their critical team and both assign and schedule each task. This list will be used to determine what is remaining in the project (for all teams, including yours).
 
 #### Project Implementation
 
