@@ -12,11 +12,11 @@ A side project for our own creation - based on amassed knowledge. Poised to be a
 
 Name              | Role
 ----------------- | -------------------------
-Justin Goulet     | Product Lead
-Mikal Callahan    | Web Development
-Austin Miller     | Web Development
+[Justin Goulet](https://github.com/jstngoulet)     | Product Lead
+[Mikal Callahan](https://github.com/mikalcallahan)    | Web Development
+[Austin Miller](https://github.com/AudioHouse)     | Web Development
 Justin Van Bibber | Consultant _to the stars_
-Chris Larsen      | Stuff with things
+[Chris Larsen](https://github.com/cjl0749)      | Stuff with things
                   |
 
 ### Main Objectives
